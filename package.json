@@ -1,0 +1,20 @@
+{
+  "name": "aws-sdk-js-bundle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "path-browserify": "^1.0.1",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity": "^3.332.0",
+    "@aws-sdk/client-s3": "^3.332.0",
+    "@aws-sdk/credential-provider-cognito-identity": "^3.332.0",
+    "amazon-cognito-identity-js": "^6.2.0"
+  }
+}
