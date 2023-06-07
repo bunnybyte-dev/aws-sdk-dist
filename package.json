@@ -12,9 +12,9 @@
     "webpack-cli": "^5.1.1"
   },
   "dependencies": {
-    "@aws-sdk/client-cognito-identity": "^3.332.0",
-    "@aws-sdk/client-s3": "^3.332.0",
-    "@aws-sdk/credential-provider-cognito-identity": "^3.332.0",
+    "@aws-sdk/client-cognito-identity": "^3.347.1",
+    "@aws-sdk/client-s3": "^3.347.1",
+    "@aws-sdk/credential-provider-cognito-identity": "^3.347.1",
     "@aws-sdk/s3-request-presigner": "^3.335.0",
     "amazon-cognito-identity-js": "^6.2.0"
   }
